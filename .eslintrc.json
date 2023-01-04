@@ -14,5 +14,10 @@
     },
     "ignorePatterns": ["dist"],
     "rules": {
+        "consistent-return": 0,
+        "array-callback-return": 0,
+        "no-prototype-builtins": 0,
+        "no-restricted-syntax": 0, 
+        "no-console": 0
     }
 }
