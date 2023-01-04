@@ -1,0 +1,1 @@
+# ajs-homeworks-object-for-in
